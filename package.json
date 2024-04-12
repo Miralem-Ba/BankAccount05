@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@types/node": "^20.11.6",
+    "mariadb": "^3.2.3",
+    "typescript": "^5.3.3"
+  }
+}
